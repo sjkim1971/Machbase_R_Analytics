@@ -1,6 +1,6 @@
 # SensorAnalyticsR
 
-This source code repository is for an example of R analytics with Machbase DBMS.
+This source code repository is an example of R analytics with Machbase DBMS.
 
 calendarHeatmap.R   # HeatMap R Library 
 cleansing.sql  # data cleasing SQL for Machbase
