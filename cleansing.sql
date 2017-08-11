@@ -1,0 +1,1 @@
+insert into humidity select to_number(c0), to_number(c1), to_number(c2), to_number(c3), to_number(c4), to_number(c5), to_number(c6) from humidity_dummy where c6 is not NULL and c6 is not null and to_number_safe(c6) < 100 and to_number_safe(c6) >= 0;
