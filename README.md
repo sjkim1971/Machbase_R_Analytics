@@ -4,6 +4,8 @@ This source code repository is an example of R analytics with Machbase DBMS.
 
 1. generation of humidity.csv
 
+"sh merge.sh"
+
 Due to the limitation of upload file size, the humidity.csv file has been spilitted.
 After download all files, just execute merge.sh to re-construct "humidity.csv".
 The original size of this file is 256489K.
