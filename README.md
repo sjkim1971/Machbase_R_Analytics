@@ -17,12 +17,19 @@ humidity.R has all analytic script you want.
 == FILES ==
 
 calendarHeatmap.R    # HeatMap R Library 
+
 cleansing.sql        # data cleasing SQL for Machbase
+
 create_table.sql     # table creation SQL for Machbase
+
 humidity.R           # R script for humidity analytics
+
 run.sh               # auto run script 
 
+
 humidity1.split      # 1st split file of humidity.csv.gz
+
 humidity2.split      # 2nd split file of humidity.csv.gz
+
 merge.sh             # merge the split files into humidity.csv.gz and uncompress to make "humidity.csv"
 
