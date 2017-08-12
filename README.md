@@ -1,4 +1,4 @@
-# SensorAnalyticsR
+# Machbase with R Analytics
 
 This source code repository is an example of R analytics with Machbase DBMS.
 
